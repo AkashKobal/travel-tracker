@@ -40,7 +40,7 @@ This web application allows users to track the countries they have visited. User
 
 3. **Configure Database**:
 
-   [Download CSV file](https://github.com/AkashKobal/guess-the-capital/blob/main/capitals.csv) <br>
+   [Download CSV file](https://github.com/AkashKobal/travel-tracker/blob/main/countries.csv) <br>
    Set up your PostgreSQL database and update the connection settings in the .env file.
 
 5. **Run the Application**:

@@ -1,6 +1,9 @@
 # Travel Tracker Web App
 ![Screenshot](https://github.com/AkashKobal/travel-tracker/blob/main/Screenshot%202024-07-10%20005244.png)
 
+## Description
+This web application allows users to track the countries they have visited. Users can add country names, and the visited countries will be visualized on a map using Canvas. The app is built using HTML, CSS, JavaScript, EJS for templating, and PostgreSQL for database management.
+
 ## Table of Contents
 1. [Description](#description)
 2. [Features](#features)
@@ -11,10 +14,6 @@
 7. [Contributions](#contributions)
 8. [License](#license)
 9. [Contact Information](#contact-information)
-
-
-## Description
-This web application allows users to track the countries they have visited. Users can add country names, and the visited countries will be visualized on a map using Canvas. The app is built using HTML, CSS, JavaScript, EJS for templating, and PostgreSQL for database management.
 
 ## Features
 - **Dynamic Templating**: Uses EJS to create reusable templates and dynamic content.

@@ -1,5 +1,5 @@
 # Travel Tracker Web App
-![Screenshot](https://github.com/yourusername/travel-tracker/blob/main/Screenshot.png)
+![Screenshot](https://github.com/AkashKobal/travel-tracker/blob/main/Screenshot%202024-07-10%20005244.png)
 
 ## Table of Contents
 1. [Description](#description)

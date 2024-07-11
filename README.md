@@ -12,7 +12,7 @@ This web application allows users to track the countries they have visited. User
 5. [Usage](#usage)
 6. [Testing](#testing)
 7. [Contributions](#contributions)
-8. [License](#license)
+8. [License](#license) 
 9. [Contact Information](#contact-information)
 
 ## Features
